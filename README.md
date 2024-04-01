@@ -38,7 +38,8 @@ Hardware – PCs, Cyclone II , USB flasher
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 ```
-module ex01san(a,b,c,d,w,x,y,z,f1,f2);
+
+module Boolean_min(a,b,c,d,w,x,y,z,f1,f2);
 input a,b,c,d,w,x,y,z;
 output f1,f2;
 wire adash,bdash,cdash,ddash,ydash,p,q,r,s,t,u;
@@ -60,20 +61,23 @@ endmodule
 
 
 
-
 ```
-Developed by: RegisterNumber:*/
+Developed by:Pradeep V RegisterNumber:212223240119*/
 
 
 **RTL realization**
-![316319712-dee09fd9-6b44-40ef-afbf-d6ab2e627d53](https://github.com/velupradeep/BOOLEAN_FUNCTION_MINIMIZATION/assets/150329341/4f6f4a0d-460f-4003-a885-e35887bc9bf6)
+![316248910-f352081d-c087-4f9e-bfbc-1f9953f905cf](https://github.com/velupradeep/BOOLEAN_FUNCTION_MINIMIZATION/assets/150329341/bb1c758d-2359-4b24-821b-f66eae4d1e0d)
+
 
 **Truth Table**
-![316319842-96ebeb42-3093-489e-b6ab-688e9a11d038](https://github.com/velupradeep/BOOLEAN_FUNCTION_MINIMIZATION/assets/150329341/bed21d2e-b4c9-4d03-b535-ae5b553a7b35)
+![316248955-9b8ac838-42f6-4e16-af60-36b3d664d4db](https://github.com/velupradeep/BOOLEAN_FUNCTION_MINIMIZATION/assets/150329341/c1016fce-b517-4d0d-88a4-e3dc9e63c20f)
+
+
 
 
 **Timing Diagram**
-![316319778-ce67084d-5d29-4a77-b17f-48f38be24498](https://github.com/velupradeep/BOOLEAN_FUNCTION_MINIMIZATION/assets/150329341/5bbf59b4-4c78-4263-89ef-c73c084f324e)
+![316248973-b497fc93-c6c6-4981-8462-91a226b19e88](https://github.com/velupradeep/BOOLEAN_FUNCTION_MINIMIZATION/assets/150329341/c4bbb22f-a999-47c4-af59-fde614dcc881)
+
 
 
 
