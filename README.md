@@ -1,7 +1,5 @@
-## NAME: PRADEEP V
-## REG NO: 212223240119
 
-# BOOLEAN_FUNCTION_MINIMIZATION
+# EX-02: BOOLEAN_FUNCTION_MINIMIZATION
 
 **AIM:**
 
@@ -62,7 +60,12 @@ endmodule
 
 
 ```
-Developed by:Pradeep V RegisterNumber:212223240119*/
+
+```
+Developed by:PRADEEP V 
+RegisterNumber:212223240119*/
+
+```
 
 
 **RTL realization**
