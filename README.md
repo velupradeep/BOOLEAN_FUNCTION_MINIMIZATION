@@ -1,5 +1,5 @@
 
-# EX-02: BOOLEAN_FUNCTION_MINIMIZATION
+# EX-02: Boolean_Function_Minimization
 
 **AIM:**
 
